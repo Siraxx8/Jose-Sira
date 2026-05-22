@@ -7,11 +7,11 @@
 
 ----RESPUESTAS----
 
-1. 
+1. Porque los pedidos de delivery debe atenderse de primero, el primer cliente que pide es el primero en recibir su pedido, pero para los pedidos se lleva un registro, es decir q el primero q entre es el q va a quedar por debajo porque es el mas antiguo
 
 2. Es obligatorio verificar porque no se pueden entregar elementos de un espacio que este vacio, si se omite en la ejecucion del codigo se cerrara y dara un error en la consola
 
-3. 
+3. sirve para validar que la opcion que se introdujo coincida con la operacion correcta
 
 4. La ventaja que tiene es que se puede revisar el codigo directamente desde el github, y que puedes ver los cambios que se han realizados a lo largo del trabajo
  
