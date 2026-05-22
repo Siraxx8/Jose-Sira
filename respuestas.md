@@ -8,3 +8,10 @@
 ----RESPUESTAS----
 
 1. 
+
+2. Es obligatorio verificar porque no se pueden entregar elementos de un espacio que este vacio, si se omite en la ejecucion del codigo se cerrara y dara un error en la consola
+
+3. 
+
+4. La ventaja que tiene es que se puede revisar el codigo directamente desde el github, y que puedes ver los cambios que se han realizados a lo largo del trabajo
+ 
